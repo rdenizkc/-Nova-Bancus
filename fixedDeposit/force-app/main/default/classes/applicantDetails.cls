@@ -58,6 +58,8 @@ public with sharing class applicantDetails {
     
         
     }
+
+    
     
     
     

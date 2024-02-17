@@ -279,7 +279,7 @@ handleSave() {
             fdAmount: this.fdAmountValue,
             inScheme: this.interestSchemeValue,
             inRate: this.interestRateValue,
-            fdId: this.recordId
+fdId: this.recordId
         
         })
         .then(result => {

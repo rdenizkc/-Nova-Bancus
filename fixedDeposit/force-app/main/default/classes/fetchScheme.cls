@@ -49,4 +49,3 @@ public with sharing class fetchScheme {
         }
 
     }
-
